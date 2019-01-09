@@ -195,11 +195,7 @@
     <!-- redis 结束-->
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
     <!--Oracle的依赖-->
-    <dependency>
-      <groupId>com.oracle</groupId>
-      <artifactId>ojdbc6</artifactId>
-      <version>${ojdbc6.version}</version>
-    </dependency>
+
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
